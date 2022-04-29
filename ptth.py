@@ -327,16 +327,14 @@ try:
         else:
             print("Result:")
             print(fe, se, te)
-            print(str(fe) + firstE + " + " + str(se) + secondE + " -> " + str(te) + thirdE)
-            print("Nice :3")
+            print(str(fe) + firstE + " + " + str(se) + secondE + " -> " + str(te) + thirdE + "\nNice :3")
     else:
         if fe >15 and se > 48 and te> 48:
             print("KO thể cân bằng -  vô nghiệm/ Error no result")
         else:
             print("Result:")
             print(fe, se, te, foe)
-            print(str(fe)+firstE + " + " + str(se)+secondE + " -> " +  str(te)+thirdE + " + " + str(foe)+fourthE)
-            print("Nice :3")
+            print(str(fe)+firstE + " + " + str(se)+secondE + " -> " +  str(te)+thirdE + " + " + str(foe)+fourthE + "\nNice :3")
 except:
     print("Lỗi phương trình, kiểm tra lại!/ Check your chemical substances again")
 
