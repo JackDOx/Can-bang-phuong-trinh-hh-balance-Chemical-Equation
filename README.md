@@ -8,6 +8,4 @@ Gõ từng chất một bằng phím enter
 
 File .exe với bản đầy đủ các trường hợp phản ứng sẽ upload sau
 
-CHẠY FILE ptth.py bằng IDE hoặc online compiler: https://www.programiz.com/python-programming/online-compiler/
-
 Author: Quang Duy Do XD\n
